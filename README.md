@@ -1,5 +1,5 @@
 # Anomaly Detection
--------------------------
+
 
 해당 Repository 에서는 Anomaly Detection에 관한 모형들을 `.ipynb`에 정리하고 `Pytorch`로 구현해본다.
 
