@@ -5,6 +5,8 @@
 
 ## Reconstruction Methods
 
+- An & Cho (2015), Variatioinal autoencoder based anomaly detection using reconstruction probability
+- Zhou & Paffenroth (2017), Anomaly detection with robust deep autoencoders
 - Sxhlegl et al. (2017), Unsupervised anomaly detection with generative adversarial networks to guide marker discovery
 - Deecke et al. (2018), Anomaly detection with generative adversarial networks
 
