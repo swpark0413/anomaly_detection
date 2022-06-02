@@ -6,9 +6,11 @@
 ## Reconstruction Methods
 
 - An & Cho (2015), Variatioinal autoencoder based anomaly detection using reconstruction probability
-- Zhou & Paffenroth (2017), Anomaly detection with robust deep autoencoders
+- Chen et al. (2017), Outlier detection with autoencoder ensembles
 - Sxhlegl et al. (2017), Unsupervised anomaly detection with generative adversarial networks to guide marker discovery
+    - Bashar & Nayak (2020) TAnoGAN: Time series anomaly detection with generative adversarial networks
 - Deecke et al. (2018), Anomaly detection with generative adversarial networks
+
 
 
 ## Distributional Methods
@@ -22,9 +24,4 @@
 - Ruff et al. (2020), Deep semi-supervised anomaly detection
 - Bergman & Hoshen (2020), Classification-based anomaly detection for general data
 - Qiu et al. (2021), Neural transformation learning for depp anomaly detection beyond images
-- Zhang et al. (2021), Self-supervised anomaly detection via neural autoregressive flows with active learning
-
-## Etc
-
-- Chen et al. (2017), Outlier detection with autoencoder ensembles
 
