@@ -7,10 +7,9 @@
 
 - An & Cho (2015), Variatioinal autoencoder based anomaly detection using reconstruction probability
 - Chen et al. (2017), Outlier detection with autoencoder ensembles
+    - Kieu et al. (2019) Outlier Detection for Time Series with Recurrent Autoencoder Ensembles
 - Sxhlegl et al. (2017), Unsupervised anomaly detection with generative adversarial networks to guide marker discovery
     - Bashar & Nayak (2020) TAnoGAN: Time series anomaly detection with generative adversarial networks
-- Deecke et al. (2018), Anomaly detection with generative adversarial networks
-
 
 
 ## Distributional Methods
